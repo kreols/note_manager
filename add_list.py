@@ -1,0 +1,6 @@
+The_subtitle_1 = input()
+The_subtitle_2 = input()
+The_subtitle_3 = input()
+print("1 Подзаголовок " + The_subtitle_1)
+print("2 Подзаголовок " + The_subtitle_2)
+print("3 Подзаголовок " + The_subtitle_3)
