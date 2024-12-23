@@ -1,6 +1,7 @@
-The_subtitle_1 = input()
-The_subtitle_2 = input()
-The_subtitle_3 = input()
-print("1 Подзаголовок " + The_subtitle_1)
-print("2 Подзаголовок " + The_subtitle_2)
-print("3 Подзаголовок " + The_subtitle_3)
+The_subtitle_1 = input("Введите первый заголовок: ")
+The_subtitle_2 = input("Введите второй заголовок: ")
+The_subtitle_3 = input("Введите третий заголовок: ")
+
+task = [The_subtitle_1, The_subtitle_2, The_subtitle_3]
+
+print(task)
